@@ -23,7 +23,12 @@ But if you still want it from me
   <li>Put them in the same folder</li>
   <li>Open .html in your Browser</li>
 </ol>
-
-
+<br>
+Edit Code for changing player count or board size <br>
+Player count in js <br>
+Board size in js & css<br>
+<br>
+How is told by Comments in Code<br>
+takes 30 to do
 
 Note: Feel free to telll me how to do it better
