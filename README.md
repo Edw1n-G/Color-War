@@ -29,7 +29,6 @@ Player count in js <br>
 Board size in js & css<br>
 <br>
 How is told by Comments in Code<br>
-takes 30 to do<br>
 <br>
 <br>
 <br>
