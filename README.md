@@ -1,12 +1,6 @@
 # Color-War
 Trying to make "Color Wars" from "1 2 3 4 Player Games"
 
-No animations because i can't <br>
-Best played on tablets
-
-Download "1 2 3 4 Player Games" because it looks way better <br>
-But if you still want it from me
-
 <h1>How to Play:</h1>
 <ul>
   <li>Place Tile on Empty space in First Round</li>
@@ -17,19 +11,8 @@ But if you still want it from me
   <li>If a tile explodes it also leaves empty space</li>
 </ul>
 
-<h3>How to Install:</h3>
-<ol>
-  <li>Download .html .js .css</li>
-  <li>Put them in the same folder</li>
-  <li>Open .html in your Browser</li>
-</ol>
 <br>
 Edit Code for changing player count or board size <br>
 Player count in js <br>
 Board size in js & css<br>
 <br>
-How is told by Comments in Code<br>
-<br>
-<br>
-<br>
-Note: Feel free to telll me how to do it better
